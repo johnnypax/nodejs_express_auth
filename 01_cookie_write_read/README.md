@@ -27,8 +27,8 @@ npm install
 Now you can run the project using:
 ```bash
 npm start
-Your application should now be running at http://localhost:3000/.
 ```
+Your application should now be running at http://localhost:3000/.
 
 ## License
 This project is licensed under the MIT License.
